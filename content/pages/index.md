@@ -16,7 +16,7 @@ sections:
     align: left
     padding_top: large
     padding_bottom: large
-    background_color: black
+    background_color: green
     background_image: images/watercolor.png
     background_image_repeat: repeat
     background_image_size: contain
